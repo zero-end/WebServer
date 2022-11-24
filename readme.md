@@ -88,5 +88,5 @@ make
 ./webbench-1.5/webbench -c 5000 -t 10 http://ip:port/
 ./webbench-1.5/webbench -c 10000 -t 10 http://ip:port/
 ```
-* 测试环境: macos cpu:core i5 内存:16G 
+* 测试环境: centos cpu:core i5 内存:16G 
 * QPS 10000+
